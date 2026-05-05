@@ -2,8 +2,7 @@ node_modules/
 hospital-backend/node_modules/
 hospital-frontend/node_modules/
 
-.env
-hospital-backend/.env
+
 hospital-frontend/.env
 
 build/
